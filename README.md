@@ -18,3 +18,8 @@ And it didn’t end with code—designers at CyberAgent have embraced GitHub Ent
 
 When implementing new tools, it’s best to give users the opportunity for hands-on training and simple, easy-to-understand documentation. No matter how great a system you’re implementing, it won’t make sense without support.
 
+GitHub Enterprise emerged as the best way to review source code and improve product quality while maintaining security and simple account management. Engineers were more than willing to support Junko in introducing GitHub Enterprise to the organization, making the migration a no-brainer. Everyone knew that GitHub Enterprise would improve CyberAgent’s development environment. Junko launched and led CyberAgent’s migration to GitHub Enterprise, eventually gathering more than 700 projects under one simple directory hierarchy.
+
+And it didn’t end with code—designers at CyberAgent have embraced GitHub Enterprise for sharing and collaborating on their many design assets as well. Using GitHub’s image diffing features, designers can compare two versions of the same image side-by-side, making quick work of comparisons between very detailed images.
+
+When implementing new tools, it’s best to give users the opportunity for hands-on training and simple, easy-to-understand documentation. No matter how great a system you’re implementing, it won’t make sense without support.
